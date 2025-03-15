@@ -1,0 +1,136 @@
+[ANIMATION_NAME]
+Berserker_Jump
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 18
+
+Sprite_Index 0
+Key          Berserker_Jump_1
+Left_Top    245.1 1954.7
+Offset      7.0 10.0
+Slice       177.0 145.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Berserker_Jump_2
+Left_Top    461.3 1971.6
+Offset      0.0 16.0
+Slice       187.0 124.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Berserker_Jump_3
+Left_Top    680.1 1974.6
+Offset      0.0 19.0
+Slice       193.0 124.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Berserker_Jump_4
+Left_Top    913.8 1957.6
+Offset      9.0 11.0
+Slice       177.0 142.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Berserker_Jump_5
+Left_Top    1116.1 1919.6
+Offset      0.0 0.0
+Slice       146.0 181.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Berserker_Jump_6
+Left_Top    1294.3 1935.6
+Offset      0.0 0.0
+Slice       122.0 159.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Berserker_Jump_7
+Left_Top    1459.3 1938.6
+Offset      0.0 0.0
+Slice       121.0 162.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Berserker_Jump_8
+Left_Top    1624.5 1944.6
+Offset      0.0 0.0
+Slice       123.0 151.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Berserker_Jump_9
+Left_Top    1790.4 1965.6
+Offset      0.0 0.0
+Slice       126.0 131.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Berserker_Jump_10
+Left_Top    1960.8 1970.6
+Offset      0.0 10.0
+Slice       181.0 126.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Berserker_Jump_11
+Left_Top    2173.2 1977.6
+Offset      -5.0 0.0
+Slice       186.0 120.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Berserker_Jump_12
+Left_Top    2406.6 1972.6
+Offset      0.0 -2.0
+Slice       174.0 124.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Berserker_Jump_13
+Left_Top    2620.4 1976.6
+Offset      0.0 0.0
+Slice       182.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 13
+Key          Berserker_Jump_14
+Left_Top    2844.3 1981.6
+Offset      0.0 0.0
+Slice       181.0 115.0
+BackGround  300.0 300.0
+
+Sprite_Index 14
+Key          Berserker_Jump_15
+Left_Top    3065.6 1971.6
+Offset      0.0 0.0
+Slice       187.0 126.0
+BackGround  300.0 300.0
+
+Sprite_Index 15
+Key          Berserker_Jump_16
+Left_Top    3292.3 1957.6
+Offset      0.0 0.0
+Slice       174.0 143.0
+BackGround  300.0 300.0
+
+Sprite_Index 16
+Key          Berserker_Jump_17
+Left_Top    3512.5 1951.6
+Offset      0.0 0.0
+Slice       175.0 147.0
+BackGround  300.0 300.0
+
+Sprite_Index 17
+Key          Berserker_Jump_18
+Left_Top    3734.1 1944.6
+Offset      0.0 0.0
+Slice       167.0 158.0
+BackGround  300.0 300.0
+

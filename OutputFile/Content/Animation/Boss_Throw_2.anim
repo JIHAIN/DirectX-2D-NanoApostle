@@ -1,0 +1,66 @@
+[ANIMATION_NAME]
+Boss_Throw_2
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Sprite_Index 0
+Key          Boss_Throw_2_1
+Left_Top    3604.0 2673.0
+Offset      -15.0 9.0
+Slice       154.0 143.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Throw_2_2
+Left_Top    3818.0 2676.0
+Offset      -7.0 9.5
+Slice       165.0 140.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Throw_2_3
+Left_Top    30.0 2448.0
+Offset      0.0 12.5
+Slice       182.0 134.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Throw_2_4
+Left_Top    272.0 2417.0
+Offset      23.0 22.0
+Slice       248.0 165.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Throw_2_5
+Left_Top    580.0 2414.0
+Offset      8.0 20.5
+Slice       271.0 168.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Throw_2_6
+Left_Top    903.0 2443.0
+Offset      0.0 11.0
+Slice       120.0 139.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Throw_2_7
+Left_Top    1083.0 2446.0
+Offset      0.0 12.5
+Slice       120.0 136.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Boss_Throw_2_8
+Left_Top    1263.0 2447.0
+Offset      0.0 13.0
+Slice       120.0 135.0
+BackGround  300.0 300.0
+

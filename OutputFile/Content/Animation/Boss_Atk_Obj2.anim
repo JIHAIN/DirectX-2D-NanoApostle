@@ -1,0 +1,115 @@
+[ANIMATION_NAME] 
+Boss_Atk_Obj2
+[ATLAS_TEXTURE] 
+Texture\AESlash_6.png 
+Texture\AESlash_6.png
+[FRAME_DATA]
+Frame_Count 18
+Sprite_Index 0
+Key Boss_Atk_Obj2_1
+Left_Top 0.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 1
+Key Boss_Atk_Obj2_2
+Left_Top 267.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 2
+Key Boss_Atk_Obj2_3
+Left_Top 534.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 3
+Key Boss_Atk_Obj2_4
+Left_Top 801.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 4
+Key Boss_Atk_Obj2_5
+Left_Top 1068.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 5
+Key Boss_Atk_Obj2_6
+Left_Top 1335.0 0.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 6
+Key Boss_Atk_Obj2_7
+Left_Top 0.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 7
+Key Boss_Atk_Obj2_8
+Left_Top 267.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 8
+Key Boss_Atk_Obj2_9
+Left_Top 534.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 9
+Key Boss_Atk_Obj2_10
+Left_Top 801.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 10
+Key Boss_Atk_Obj2_11
+Left_Top 1068.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 11
+Key Boss_Atk_Obj2_12
+Left_Top 1335.0 260.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 12
+Key Boss_Atk_Obj2_13
+Left_Top 0.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 13
+Key Boss_Atk_Obj2_14
+Left_Top 267.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 14
+Key Boss_Atk_Obj2_15
+Left_Top 534.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 15
+Key Boss_Atk_Obj2_16
+Left_Top 801.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 16
+Key Boss_Atk_Obj2_17
+Left_Top 1068.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0
+Sprite_Index 17
+Key Boss_Atk_Obj2_18
+Left_Top 1335.0 520.0
+Offset 0.0 0.0
+Slice 267.0 260.0
+BackGround 300.0 300.0

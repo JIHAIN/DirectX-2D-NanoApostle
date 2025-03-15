@@ -1,0 +1,66 @@
+[ANIMATION_NAME]
+Player_Idle_Up
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Sprite_Index 0
+Key          Player_Idle_Up_1
+Left_Top    761.0 983.0
+Offset      0.0 0.0
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Idle_Up_2
+Left_Top    780.0 984.0
+Offset      0.0 0.5
+Slice       16.0 39.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Idle_Up_3
+Left_Top    799.0 984.0
+Offset      0.0 0.5
+Slice       16.0 39.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Idle_Up_4
+Left_Top    818.0 984.0
+Offset      0.0 0.5
+Slice       16.0 39.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Idle_Up_5
+Left_Top    837.0 984.0
+Offset      0.0 0.5
+Slice       16.0 39.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_Idle_Up_6
+Left_Top    856.0 983.0
+Offset      0.0 -0.0
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_Idle_Up_7
+Left_Top    875.0 983.0
+Offset      0.0 -0.0
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_Idle_Up_8
+Left_Top    894.0 983.0
+Offset      0.0 -0.0
+Slice       16.0 40.0
+BackGround  50.0 50.0
+

@@ -1,0 +1,115 @@
+[ANIMATION_NAME]
+Berserker_Attack_1
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 15
+
+Sprite_Index 0
+Key          Berserker_Attack_1
+Left_Top    479.7 2655.6
+Offset      -7.0 4.0
+Slice       194.0 172.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Berserker_Attack_2
+Left_Top    704.0 2669.6
+Offset      -7.0 15.0
+Slice       234.0 150.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Berserker_Attack_3
+Left_Top    947.0 2652.6
+Offset      -21.0 19.0
+Slice       229.0 169.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Berserker_Attack_4
+Left_Top    1190.4 2653.6
+Offset      -12.0 21.0
+Slice       189.0 167.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Berserker_Attack_5
+Left_Top    1396.2 2656.6
+Offset      -13.0 23.0
+Slice       187.0 163.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Berserker_Attack_6
+Left_Top    1612.5 2666.6
+Offset      -19.0 23.0
+Slice       202.0 159.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Berserker_Attack_7
+Left_Top    1838.9 2690.6
+Offset      -34.0 35.0
+Slice       230.0 132.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Berserker_Attack_8
+Left_Top    2118.3 2688.6
+Offset      -11.0 34.0
+Slice       219.0 135.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Berserker_Attack_9
+Left_Top    2351.4 2626.6
+Offset      -6.0 18.0
+Slice       292.0 204.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Berserker_Attack_10
+Left_Top    2652.0 2627.6
+Offset      9.0 14.0
+Slice       295.0 197.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Berserker_Attack_11
+Left_Top    2949.2 2642.6
+Offset      -24.0 16.0
+Slice       195.0 179.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Berserker_Attack_12
+Left_Top    3162.7 2655.6
+Offset      -23.0 19.0
+Slice       189.0 169.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Berserker_Attack_13
+Left_Top    3378.0 2656.6
+Offset      -17.0 15.0
+Slice       188.0 169.0
+BackGround  300.0 300.0
+
+Sprite_Index 13
+Key          Berserker_Attack_14
+Left_Top    3580.7 2662.6
+Offset      -21.0 9.0
+Slice       196.0 163.0
+BackGround  300.0 300.0
+
+Sprite_Index 14
+Key          Berserker_Attack_15
+Left_Top    3805.7 2659.6
+Offset      -8.0 7.0
+Slice       194.0 167.0
+BackGround  300.0 300.0
+

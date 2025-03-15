@@ -1,0 +1,724 @@
+[ANIMATION_NAME]
+Execute_PlayerTentacle
+
+[ATLAS_TEXTURE]
+Texture\Berserker_Execute_PlayerTentacle.png
+Texture\Berserker_Execute_PlayerTentacle.png
+
+[FRAME_DATA]
+Frame_Count 102
+
+Sprite_Index 0
+Key          Execute_PlayerTentacle_1
+Left_Top    15.0 1894.0
+Offset      -7.0 100.0
+Slice       107.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 1
+Key          Execute_PlayerTentacle_2
+Left_Top    123.0 1894.0
+Offset      -63.0 81.0
+Slice       117.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 2
+Key          Execute_PlayerTentacle_3
+Left_Top    237.0 1894.0
+Offset      11.0 56.0
+Slice       73.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 3
+Key          Execute_PlayerTentacle_4
+Left_Top    308.0 1894.0
+Offset      24.0 79.0
+Slice       58.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 4
+Key          Execute_PlayerTentacle_5
+Left_Top    364.0 1894.0
+Offset      25.0 86.0
+Slice       59.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 5
+Key          Execute_PlayerTentacle_6
+Left_Top    421.0 1894.0
+Offset      22.0 86.0
+Slice       56.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 6
+Key          Execute_PlayerTentacle_7
+Left_Top    476.0 1894.0
+Offset      22.0 86.0
+Slice       56.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 7
+Key          Execute_PlayerTentacle_8
+Left_Top    531.0 1894.0
+Offset      21.0 82.0
+Slice       54.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 8
+Key          Execute_PlayerTentacle_9
+Left_Top    584.0 1894.0
+Offset      -64.0 75.0
+Slice       170.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 9
+Key          Execute_PlayerTentacle_10
+Left_Top    752.0 1894.0
+Offset      -78.0 65.0
+Slice       151.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 10
+Key          Execute_PlayerTentacle_11
+Left_Top    903.0 1894.0
+Offset      -72.0 80.0
+Slice       152.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 11
+Key          Execute_PlayerTentacle_12
+Left_Top    1052.0 1894.0
+Offset      -68.0 95.0
+Slice       153.0 153.0
+BackGround  400.0 400.0
+
+Sprite_Index 12
+Key          Execute_PlayerTentacle_13
+Left_Top    1203.0 1876.0
+Offset      -40.0 77.0
+Slice       215.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 13
+Key          Execute_PlayerTentacle_14
+Left_Top    1419.0 1878.0
+Offset      -50.0 70.0
+Slice       177.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 14
+Key          Execute_PlayerTentacle_15
+Left_Top    1595.0 1876.0
+Offset      -25.0 52.0
+Slice       210.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 15
+Key          Execute_PlayerTentacle_16
+Left_Top    1804.0 1876.0
+Offset      -13.0 62.0
+Slice       185.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 16
+Key          Execute_PlayerTentacle_17
+Left_Top    0.0 1706.0
+Offset      -5.0 67.0
+Slice       175.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 17
+Key          Execute_PlayerTentacle_18
+Left_Top    173.0 1706.0
+Offset      0.0 70.0
+Slice       171.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 18
+Key          Execute_PlayerTentacle_19
+Left_Top    345.0 1706.0
+Offset      2.0 62.0
+Slice       168.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 19
+Key          Execute_PlayerTentacle_20
+Left_Top    513.0 1706.0
+Offset      6.0 55.0
+Slice       165.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 20
+Key          Execute_PlayerTentacle_21
+Left_Top    678.0 1687.0
+Offset      5.0 46.0
+Slice       166.0 194.0
+BackGround  400.0 400.0
+
+Sprite_Index 21
+Key          Execute_PlayerTentacle_22
+Left_Top    843.0 1708.0
+Offset      24.0 43.0
+Slice       127.0 170.0
+BackGround  400.0 400.0
+
+Sprite_Index 22
+Key          Execute_PlayerTentacle_23
+Left_Top    968.0 1704.0
+Offset      22.0 50.0
+Slice       130.0 172.0
+BackGround  400.0 400.0
+
+Sprite_Index 23
+Key          Execute_PlayerTentacle_24
+Left_Top    1096.0 1685.0
+Offset      23.0 41.0
+Slice       131.0 194.0
+BackGround  400.0 400.0
+
+Sprite_Index 24
+Key          Execute_PlayerTentacle_25
+Left_Top    1226.0 1704.0
+Offset      23.0 49.0
+Slice       132.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 25
+Key          Execute_PlayerTentacle_26
+Left_Top    1356.0 1704.0
+Offset      21.0 52.0
+Slice       133.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 26
+Key          Execute_PlayerTentacle_27
+Left_Top    1488.0 1703.0
+Offset      20.0 50.0
+Slice       134.0 178.0
+BackGround  400.0 400.0
+
+Sprite_Index 27
+Key          Execute_PlayerTentacle_28
+Left_Top    1621.0 1703.0
+Offset      20.0 50.0
+Slice       131.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 28
+Key          Execute_PlayerTentacle_29
+Left_Top    1751.0 1706.0
+Offset      23.0 53.0
+Slice       126.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 29
+Key          Execute_PlayerTentacle_30
+Left_Top    1876.0 1709.0
+Offset      23.0 54.0
+Slice       127.0 170.0
+BackGround  400.0 400.0
+
+Sprite_Index 30
+Key          Execute_PlayerTentacle_31
+Left_Top    0.0 1515.0
+Offset      23.0 50.0
+Slice       126.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 31
+Key          Execute_PlayerTentacle_32
+Left_Top    125.0 1515.0
+Offset      24.0 50.0
+Slice       126.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 32
+Key          Execute_PlayerTentacle_33
+Left_Top    249.0 1515.0
+Offset      23.0 50.0
+Slice       125.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 33
+Key          Execute_PlayerTentacle_34
+Left_Top    372.0 1515.0
+Offset      24.0 70.0
+Slice       126.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 34
+Key          Execute_PlayerTentacle_35
+Left_Top    496.0 1515.0
+Offset      28.0 57.0
+Slice       135.0 174.0
+BackGround  400.0 400.0
+
+Sprite_Index 35
+Key          Execute_PlayerTentacle_36
+Left_Top    630.0 1515.0
+Offset      32.0 59.0
+Slice       140.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 36
+Key          Execute_PlayerTentacle_37
+Left_Top    769.0 1515.0
+Offset      37.0 58.0
+Slice       152.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 37
+Key          Execute_PlayerTentacle_38
+Left_Top    920.0 1515.0
+Offset      38.0 50.0
+Slice       153.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 38
+Key          Execute_PlayerTentacle_39
+Left_Top    1071.0 1515.0
+Offset      35.0 50.0
+Slice       151.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 39
+Key          Execute_PlayerTentacle_40
+Left_Top    1221.0 1515.0
+Offset      37.0 50.0
+Slice       152.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 40
+Key          Execute_PlayerTentacle_41
+Left_Top    1372.0 1515.0
+Offset      35.0 50.0
+Slice       151.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 41
+Key          Execute_PlayerTentacle_42
+Left_Top    1522.0 1515.0
+Offset      33.0 52.0
+Slice       144.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 42
+Key          Execute_PlayerTentacle_43
+Left_Top    1665.0 1515.0
+Offset      35.0 50.0
+Slice       150.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 43
+Key          Execute_PlayerTentacle_44
+Left_Top    1813.0 1515.0
+Offset      40.0 57.0
+Slice       162.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 44
+Key          Execute_PlayerTentacle_45
+Left_Top    0.0 1340.0
+Offset      38.0 50.0
+Slice       154.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 45
+Key          Execute_PlayerTentacle_46
+Left_Top    153.0 1340.0
+Offset      38.0 50.0
+Slice       152.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 46
+Key          Execute_PlayerTentacle_47
+Left_Top    302.0 1351.0
+Offset      35.0 55.0
+Slice       150.0 161.0
+BackGround  400.0 400.0
+
+Sprite_Index 47
+Key          Execute_PlayerTentacle_48
+Left_Top    449.0 1340.0
+Offset      25.0 50.0
+Slice       128.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 48
+Key          Execute_PlayerTentacle_49
+Left_Top    578.0 1309.0
+Offset      -30.0 39.0
+Slice       81.0 203.0
+BackGround  400.0 400.0
+
+Sprite_Index 49
+Key          Execute_PlayerTentacle_50
+Left_Top    662.0 1307.0
+Offset      -36.0 39.0
+Slice       75.0 202.0
+BackGround  400.0 400.0
+
+Sprite_Index 50
+Key          Execute_PlayerTentacle_51
+Left_Top    739.0 1306.0
+Offset      -38.0 39.0
+Slice       75.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 51
+Key          Execute_PlayerTentacle_52
+Left_Top    816.0 1306.0
+Offset      -38.0 39.0
+Slice       75.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 52
+Key          Execute_PlayerTentacle_53
+Left_Top    893.0 1311.0
+Offset      -37.0 37.0
+Slice       78.0 199.0
+BackGround  400.0 400.0
+
+Sprite_Index 53
+Key          Execute_PlayerTentacle_54
+Left_Top    973.0 1320.0
+Offset      -17.0 45.0
+Slice       131.0 190.0
+BackGround  400.0 400.0
+
+Sprite_Index 54
+Key          Execute_PlayerTentacle_55
+Left_Top    1106.0 1317.0
+Offset      -18.0 45.0
+Slice       135.0 193.0
+BackGround  400.0 400.0
+
+Sprite_Index 55
+Key          Execute_PlayerTentacle_56
+Left_Top    1242.0 1317.0
+Offset      -18.0 45.0
+Slice       135.0 193.0
+BackGround  400.0 400.0
+
+Sprite_Index 56
+Key          Execute_PlayerTentacle_57
+Left_Top    1378.0 1318.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 57
+Key          Execute_PlayerTentacle_58
+Left_Top    1519.0 1318.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 58
+Key          Execute_PlayerTentacle_59
+Left_Top    1660.0 1318.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 59
+Key          Execute_PlayerTentacle_60
+Left_Top    1801.0 1316.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 60
+Key          Execute_PlayerTentacle_61
+Left_Top    1.0 1109.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 61
+Key          Execute_PlayerTentacle_62
+Left_Top    142.0 1109.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 62
+Key          Execute_PlayerTentacle_63
+Left_Top    283.0 1109.0
+Offset      -15.0 45.0
+Slice       141.0 195.0
+BackGround  400.0 400.0
+
+Sprite_Index 63
+Key          Execute_PlayerTentacle_64
+Left_Top    424.0 1103.0
+Offset      -13.0 45.0
+Slice       141.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 64
+Key          Execute_PlayerTentacle_65
+Left_Top    565.0 1100.0
+Offset      -13.0 45.0
+Slice       141.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 65
+Key          Execute_PlayerTentacle_66
+Left_Top    708.0 1100.0
+Offset      -13.0 45.0
+Slice       141.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 66
+Key          Execute_PlayerTentacle_67
+Left_Top    851.0 1100.0
+Offset      -13.0 45.0
+Slice       141.0 204.0
+BackGround  400.0 400.0
+
+Sprite_Index 67
+Key          Execute_PlayerTentacle_68
+Left_Top    993.0 1098.0
+Offset      -13.0 45.0
+Slice       144.0 206.0
+BackGround  400.0 400.0
+
+Sprite_Index 68
+Key          Execute_PlayerTentacle_69
+Left_Top    1136.0 1098.0
+Offset      -14.0 45.0
+Slice       144.0 206.0
+BackGround  400.0 400.0
+
+Sprite_Index 69
+Key          Execute_PlayerTentacle_70
+Left_Top    1281.0 1098.0
+Offset      -14.0 45.0
+Slice       143.0 206.0
+BackGround  400.0 400.0
+
+Sprite_Index 70
+Key          Execute_PlayerTentacle_71
+Left_Top    1424.0 1095.0
+Offset      -14.0 45.0
+Slice       144.0 211.0
+BackGround  400.0 400.0
+
+Sprite_Index 71
+Key          Execute_PlayerTentacle_72
+Left_Top    1569.0 1093.0
+Offset      -12.0 45.0
+Slice       145.0 213.0
+BackGround  400.0 400.0
+
+Sprite_Index 72
+Key          Execute_PlayerTentacle_73
+Left_Top    1713.0 1093.0
+Offset      -12.0 45.0
+Slice       145.0 214.0
+BackGround  400.0 400.0
+
+Sprite_Index 73
+Key          Execute_PlayerTentacle_74
+Left_Top    1857.0 1093.0
+Offset      -12.0 45.0
+Slice       146.0 213.0
+BackGround  400.0 400.0
+
+Sprite_Index 74
+Key          Execute_PlayerTentacle_75
+Left_Top    0.0 878.0
+Offset      -14.0 45.0
+Slice       144.0 216.0
+BackGround  400.0 400.0
+
+Sprite_Index 75
+Key          Execute_PlayerTentacle_76
+Left_Top    145.0 878.0
+Offset      -13.0 45.0
+Slice       144.0 216.0
+BackGround  400.0 400.0
+
+Sprite_Index 76
+Key          Execute_PlayerTentacle_77
+Left_Top    289.0 878.0
+Offset      -13.0 45.0
+Slice       144.0 215.0
+BackGround  400.0 400.0
+
+Sprite_Index 77
+Key          Execute_PlayerTentacle_78
+Left_Top    433.0 875.0
+Offset      -13.0 45.0
+Slice       145.0 219.0
+BackGround  400.0 400.0
+
+Sprite_Index 78
+Key          Execute_PlayerTentacle_79
+Left_Top    577.0 873.0
+Offset      -13.0 45.0
+Slice       145.0 220.0
+BackGround  400.0 400.0
+
+Sprite_Index 79
+Key          Execute_PlayerTentacle_80
+Left_Top    721.0 873.0
+Offset      -13.0 45.0
+Slice       145.0 220.0
+BackGround  400.0 400.0
+
+Sprite_Index 80
+Key          Execute_PlayerTentacle_81
+Left_Top    865.0 873.0
+Offset      -13.0 45.0
+Slice       145.0 220.0
+BackGround  400.0 400.0
+
+Sprite_Index 81
+Key          Execute_PlayerTentacle_82
+Left_Top    1007.0 871.0
+Offset      -15.0 45.0
+Slice       144.0 223.0
+BackGround  400.0 400.0
+
+Sprite_Index 82
+Key          Execute_PlayerTentacle_83
+Left_Top    1150.0 871.0
+Offset      -14.0 45.0
+Slice       145.0 222.0
+BackGround  400.0 400.0
+
+Sprite_Index 83
+Key          Execute_PlayerTentacle_84
+Left_Top    1293.0 866.0
+Offset      -14.0 45.0
+Slice       146.0 227.0
+BackGround  400.0 400.0
+
+Sprite_Index 84
+Key          Execute_PlayerTentacle_85
+Left_Top    1440.0 866.0
+Offset      -13.0 45.0
+Slice       145.0 227.0
+BackGround  400.0 400.0
+
+Sprite_Index 85
+Key          Execute_PlayerTentacle_86
+Left_Top    1583.0 862.0
+Offset      -14.0 45.0
+Slice       147.0 233.0
+BackGround  400.0 400.0
+
+Sprite_Index 86
+Key          Execute_PlayerTentacle_87
+Left_Top    1730.0 862.0
+Offset      -13.0 45.0
+Slice       148.0 231.0
+BackGround  400.0 400.0
+
+Sprite_Index 87
+Key          Execute_PlayerTentacle_88
+Left_Top    1877.0 851.0
+Offset      -13.0 45.0
+Slice       148.0 242.0
+BackGround  400.0 400.0
+
+Sprite_Index 88
+Key          Execute_PlayerTentacle_89
+Left_Top    1.0 532.0
+Offset      2.0 40.0
+Slice       143.0 319.0
+BackGround  400.0 400.0
+
+Sprite_Index 89
+Key          Execute_PlayerTentacle_90
+Left_Top    142.0 502.0
+Offset      4.0 40.0
+Slice       138.0 350.0
+BackGround  400.0 400.0
+
+Sprite_Index 90
+Key          Execute_PlayerTentacle_91
+Left_Top    278.0 497.0
+Offset      4.0 40.0
+Slice       135.0 354.0
+BackGround  400.0 400.0
+
+Sprite_Index 91
+Key          Execute_PlayerTentacle_92
+Left_Top    414.0 500.0
+Offset      5.0 40.0
+Slice       131.0 359.0
+BackGround  400.0 400.0
+
+Sprite_Index 92
+Key          Execute_PlayerTentacle_93
+Left_Top    546.0 534.0
+Offset      -20.0 25.0
+Slice       72.0 321.0
+BackGround  400.0 400.0
+
+Sprite_Index 93
+Key          Execute_PlayerTentacle_94
+Left_Top    619.0 582.0
+Offset      -25.0 0.0
+Slice       62.0 272.0
+BackGround  400.0 400.0
+
+Sprite_Index 94
+Key          Execute_PlayerTentacle_95
+Left_Top    682.0 592.0
+Offset      -22.0 5.0
+Slice       61.0 260.0
+BackGround  400.0 400.0
+
+Sprite_Index 95
+Key          Execute_PlayerTentacle_96
+Left_Top    744.0 600.0
+Offset      -25.0 10.0
+Slice       100.0 252.0
+BackGround  400.0 400.0
+
+Sprite_Index 96
+Key          Execute_PlayerTentacle_97
+Left_Top    845.0 782.0
+Offset      -45.0 103.0
+Slice       85.0 63.0
+BackGround  400.0 400.0
+
+Sprite_Index 97
+Key          Execute_PlayerTentacle_98
+Left_Top    933.0 788.0
+Offset      -47.0 101.0
+Slice       88.0 60.0
+BackGround  400.0 400.0
+
+Sprite_Index 98
+Key          Execute_PlayerTentacle_99
+Left_Top    1024.0 786.0
+Offset      -47.0 101.0
+Slice       86.0 64.0
+BackGround  400.0 400.0
+
+Sprite_Index 99
+Key          Execute_PlayerTentacle_100
+Left_Top    1113.0 799.0
+Offset      -47.0 107.0
+Slice       87.0 51.0
+BackGround  400.0 400.0
+
+Sprite_Index 100
+Key          Execute_PlayerTentacle_101
+Left_Top    1203.0 829.0
+Offset      -8.0 121.0
+Slice       59.0 19.0
+BackGround  400.0 400.0
+
+Sprite_Index 101
+Key          Execute_PlayerTentacle_102
+Left_Top    1265.0 837.0
+Offset      -14.0 128.0
+Slice       20.0 11.0
+BackGround  400.0 400.0
+

@@ -1,0 +1,66 @@
+[ANIMATION_NAME]
+Boss_Groggying
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Sprite_Index 0
+Key          Boss_Groggying_1
+Left_Top    1112.0 1263.0
+Offset      0.0 0.0
+Slice       165.0 119.0
+BackGround  200.0 200.0
+
+Sprite_Index 1
+Key          Boss_Groggying_2
+Left_Top    1337.0 1263.0
+Offset      0.0 -0.0
+Slice       165.0 119.0
+BackGround  200.0 200.0
+
+Sprite_Index 2
+Key          Boss_Groggying_3
+Left_Top    1562.0 1261.0
+Offset      0.0 -1.0
+Slice       165.0 121.0
+BackGround  200.0 200.0
+
+Sprite_Index 3
+Key          Boss_Groggying_4
+Left_Top    1787.0 1263.0
+Offset      0.0 -0.0
+Slice       165.0 119.0
+BackGround  200.0 200.0
+
+Sprite_Index 4
+Key          Boss_Groggying_5
+Left_Top    2012.0 1258.0
+Offset      0.0 -2.5
+Slice       164.0 124.0
+BackGround  200.0 200.0
+
+Sprite_Index 5
+Key          Boss_Groggying_6
+Left_Top    1787.0 1263.0
+Offset      0.0 -0.0
+Slice       165.0 119.0
+BackGround  200.0 200.0
+
+Sprite_Index 6
+Key          Boss_Groggying_7
+Left_Top    1562.0 1261.0
+Offset      0.0 -1.0
+Slice       165.0 121.0
+BackGround  200.0 200.0
+
+Sprite_Index 7
+Key          Boss_Groggying_8
+Left_Top    1337.0 1263.0
+Offset      0.0 -0.0
+Slice       165.0 119.0
+BackGround  200.0 200.0
+

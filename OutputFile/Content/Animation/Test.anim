@@ -1,0 +1,38 @@
+[ANIMATION_NAME]
+Test
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Sprite_Index 0
+Key          Test_1
+Left_Top    1122.0 1481.0
+Offset      0.0 0.0
+Slice       169.0 138.0
+BackGround  290.0 290.0
+
+Sprite_Index 1
+Key          Test_2
+Left_Top    1351.0 1475.0
+Offset      0.0 -3.0
+Slice       159.0 144.0
+BackGround  290.0 290.0
+
+Sprite_Index 2
+Key          Test_3
+Left_Top    1570.0 1489.0
+Offset      0.0 4.0
+Slice       138.0 130.0
+BackGround  290.0 290.0
+
+Sprite_Index 3
+Key          Test_4
+Left_Top    1830.0 1466.0
+Offset      5.0 -4.5
+Slice       198.0 205.0
+BackGround  290.0 290.0
+

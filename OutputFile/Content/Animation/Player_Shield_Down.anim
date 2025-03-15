@@ -1,0 +1,38 @@
+[ANIMATION_NAME]
+Player_Shield_Down
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Sprite_Index 0
+Key          Player_Shield_Down_1
+Left_Top    235.0 859.0
+Offset      0.0 2.0
+Slice       19.0 35.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Shield_Down_2
+Left_Top    254.0 859.0
+Offset      0.0 2.0
+Slice       19.0 35.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Shield_Down_3
+Left_Top    273.0 859.0
+Offset      0.0 2.0
+Slice       19.0 35.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Shield_Down_4
+Left_Top    292.0 859.0
+Offset      0.0 2.0
+Slice       19.0 35.0
+BackGround  50.0 50.0
+

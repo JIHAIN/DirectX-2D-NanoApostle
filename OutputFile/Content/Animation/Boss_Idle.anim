@@ -1,0 +1,115 @@
+[ANIMATION_NAME]
+Boss_Idle
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 15
+
+Sprite_Index 0
+Key          Boss_Idle_1
+Left_Top    639.0 1033.0
+Offset      0.0 7.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Idle_2
+Left_Top    858.0 1033.0
+Offset      0.0 11.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Idle_3
+Left_Top    1077.0 1033.0
+Offset      0.0 18.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Idle_4
+Left_Top    1296.0 1033.0
+Offset      0.0 18.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Idle_5
+Left_Top    1515.0 1033.0
+Offset      0.0 21.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Idle_6
+Left_Top    1734.0 1033.0
+Offset      0.0 21.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Idle_7
+Left_Top    1953.0 1033.0
+Offset      0.0 22.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Boss_Idle_8
+Left_Top    2172.0 1033.0
+Offset      0.0 22.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Boss_Idle_9
+Left_Top    2391.0 1033.0
+Offset      0.0 23.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Boss_Idle_10
+Left_Top    2610.0 1033.0
+Offset      0.0 18.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Boss_Idle_11
+Left_Top    2829.0 1033.0
+Offset      0.0 12.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Boss_Idle_12
+Left_Top    3048.0 1033.0
+Offset      0.0 12.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Boss_Idle_13
+Left_Top    3267.0 1033.0
+Offset      0.0 9.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 13
+Key          Boss_Idle_14
+Left_Top    3486.0 1033.0
+Offset      0.0 9.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 14
+Key          Boss_Idle_15
+Left_Top    3705.0 1033.0
+Offset      0.0 9.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+

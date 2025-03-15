@@ -1,0 +1,129 @@
+[ANIMATION_NAME]
+Player_End
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 17
+
+Sprite_Index 0
+Key          Player_End_1
+Left_Top    591.0 865.0
+Offset      5.0 5.0
+Slice       31.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_End_2
+Left_Top    625.0 868.0
+Offset      3.0 6.0
+Slice       28.0 25.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_End_3
+Left_Top    656.0 867.0
+Offset      4.0 6.0
+Slice       27.0 26.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_End_4
+Left_Top    686.0 866.0
+Offset      4.0 6.0
+Slice       27.0 27.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_End_5
+Left_Top    716.0 866.0
+Offset      4.0 6.0
+Slice       27.0 27.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_End_6
+Left_Top    746.0 865.0
+Offset      6.0 6.0
+Slice       30.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_End_7
+Left_Top    779.0 865.0
+Offset      5.0 6.0
+Slice       28.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_End_8
+Left_Top    810.0 865.0
+Offset      1.0 6.0
+Slice       20.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 8
+Key          Player_End_9
+Left_Top    833.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 9
+Key          Player_End_10
+Left_Top    854.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 10
+Key          Player_End_11
+Left_Top    875.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 11
+Key          Player_End_12
+Left_Top    896.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 12
+Key          Player_End_13
+Left_Top    917.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 13
+Key          Player_End_14
+Left_Top    938.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 14
+Key          Player_End_15
+Left_Top    959.0 865.0
+Offset      0.0 6.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 15
+Key          Player_End_16
+Left_Top    980.0 864.0
+Offset      0.0 6.0
+Slice       18.0 29.0
+BackGround  50.0 50.0
+
+Sprite_Index 16
+Key          Player_End_17
+Left_Top    1001.0 864.0
+Offset      0.0 6.0
+Slice       18.0 29.0
+BackGround  50.0 50.0
+

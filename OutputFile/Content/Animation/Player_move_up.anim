@@ -1,0 +1,80 @@
+[ANIMATION_NAME]
+Player_move_up
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 10
+
+Sprite_Index 0
+Key          Player_move_up_1
+Left_Top    374.0 941.0
+Offset      0.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_move_up_2
+Left_Top    394.0 941.0
+Offset      0.0 1.0
+Slice       18.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_move_up_3
+Left_Top    413.0 941.0
+Offset      0.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_move_up_4
+Left_Top    434.0 941.0
+Offset      0.0 1.0
+Slice       22.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_move_up_5
+Left_Top    456.0 941.0
+Offset      0.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_move_up_6
+Left_Top    474.0 941.0
+Offset      -1.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_move_up_7
+Left_Top    494.0 941.0
+Offset      0.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_move_up_8
+Left_Top    514.0 941.0
+Offset      0.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 8
+Key          Player_move_up_9
+Left_Top    535.0 941.0
+Offset      0.0 1.0
+Slice       22.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 9
+Key          Player_move_up_10
+Left_Top    556.0 941.0
+Offset      -1.0 1.0
+Slice       20.0 40.0
+BackGround  50.0 50.0
+

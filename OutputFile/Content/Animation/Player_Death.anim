@@ -1,0 +1,80 @@
+[ANIMATION_NAME]
+Player_Death
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 10
+
+Sprite_Index 0
+Key          Player_Death_1
+Left_Top    154.0 729.0
+Offset      0.0 0.0
+Slice       23.0 33.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Death_2
+Left_Top    180.0 731.0
+Offset      0.0 -0.5
+Slice       22.0 34.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Death_3
+Left_Top    206.0 745.0
+Offset      0.0 6.5
+Slice       22.0 20.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Death_4
+Left_Top    232.0 746.0
+Offset      0.0 7.0
+Slice       22.0 19.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Death_5
+Left_Top    258.0 747.0
+Offset      0.0 7.5
+Slice       22.0 18.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_Death_6
+Left_Top    283.0 747.0
+Offset      0.0 7.5
+Slice       22.0 18.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_Death_7
+Left_Top    308.0 748.0
+Offset      0.0 8.0
+Slice       23.0 17.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_Death_8
+Left_Top    334.0 752.0
+Offset      0.0 10.0
+Slice       27.0 13.0
+BackGround  50.0 50.0
+
+Sprite_Index 8
+Key          Player_Death_9
+Left_Top    364.0 751.0
+Offset      0.0 9.5
+Slice       26.0 14.0
+BackGround  50.0 50.0
+
+Sprite_Index 9
+Key          Player_Death_10
+Left_Top    393.0 751.0
+Offset      0.0 9.5
+Slice       26.0 14.0
+BackGround  50.0 50.0
+

@@ -1,0 +1,59 @@
+[ANIMATION_NAME]
+12
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Sprite_Index 0
+Key          11_1
+Left_Top    1101.0 841.0
+Offset      0.0 0.0
+Slice       151.0 132.0
+BackGround  200.0 200.0
+
+Sprite_Index 1
+Key          11_2
+Left_Top    1312.0 844.0
+Offset      0.0 1.5
+Slice       151.0 129.0
+BackGround  200.0 200.0
+
+Sprite_Index 2
+Key          11_3
+Left_Top    1523.0 844.0
+Offset      0.0 1.5
+Slice       151.0 129.0
+BackGround  200.0 200.0
+
+Sprite_Index 3
+Key          11_4
+Left_Top    1734.0 845.0
+Offset      0.0 2.0
+Slice       151.0 128.0
+BackGround  200.0 200.0
+
+Sprite_Index 4
+Key          11_5
+Left_Top    1945.0 845.0
+Offset      0.0 2.0
+Slice       151.0 128.0
+BackGround  200.0 200.0
+
+Sprite_Index 5
+Key          11_6
+Left_Top    1787.0 1263.0
+Offset      0.0 6.5
+Slice       165.0 119.0
+BackGround  200.0 200.0
+
+Sprite_Index 6
+Key          11_7
+Left_Top    1768.0 1442.0
+Offset      0.0 -22.5
+Slice       185.0 177.0
+BackGround  200.0 200.0
+

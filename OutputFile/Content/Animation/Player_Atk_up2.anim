@@ -1,0 +1,45 @@
+[ANIMATION_NAME]
+Player_Atk_up2
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Sprite_Index 0
+Key          Player_Atk_up2_1
+Left_Top    823.0 938.0
+Offset      -5.0 0.0
+Slice       27.0 42.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Atk_up2_2
+Left_Top    850.0 938.0
+Offset      -3.0 0.0
+Slice       28.0 42.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Atk_up2_3
+Left_Top    880.0 938.0
+Offset      -2.0 0.0
+Slice       26.0 42.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Atk_up2_4
+Left_Top    906.0 938.0
+Offset      -1.0 0.0
+Slice       24.0 42.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Atk_up2_5
+Left_Top    930.0 938.0
+Offset      -1.0 0.0
+Slice       18.0 42.0
+BackGround  50.0 50.0
+

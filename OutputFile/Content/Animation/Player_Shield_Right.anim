@@ -1,0 +1,38 @@
+[ANIMATION_NAME]
+Player_Shield_Right
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Sprite_Index 0
+Key          Player_Shield_Right_1
+Left_Top    311.0 859.0
+Offset      0.0 3.0
+Slice       22.0 34.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Shield_Right_2
+Left_Top    333.0 862.0
+Offset      0.0 4.0
+Slice       22.0 31.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Shield_Right_3
+Left_Top    354.0 862.0
+Offset      0.0 4.0
+Slice       22.0 31.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Shield_Right_4
+Left_Top    376.0 862.0
+Offset      0.0 4.0
+Slice       22.0 31.0
+BackGround  50.0 50.0
+

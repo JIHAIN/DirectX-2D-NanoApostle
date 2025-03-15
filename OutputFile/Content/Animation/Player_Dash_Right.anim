@@ -1,0 +1,94 @@
+[ANIMATION_NAME]
+Player_Dash_Right
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 12
+
+Sprite_Index 0
+Key          Player_Dash_Right_1
+Left_Top    849.0 901.0
+Offset      0.0 2.0
+Slice       16.0 35.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Dash_Right_2
+Left_Top    868.0 918.0
+Offset      0.0 0.0
+Slice       35.0 18.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Dash_Right_3
+Left_Top    868.0 918.0
+Offset      0.0 1.0
+Slice       35.0 18.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Dash_Right_4
+Left_Top    906.0 919.0
+Offset      0.0 1.0
+Slice       38.0 17.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Dash_Right_5
+Left_Top    906.0 919.0
+Offset      0.0 2.0
+Slice       38.0 17.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_Dash_Right_6
+Left_Top    947.0 914.0
+Offset      0.0 3.0
+Slice       34.0 22.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_Dash_Right_7
+Left_Top    947.0 914.0
+Offset      0.0 4.0
+Slice       34.0 22.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_Dash_Right_8
+Left_Top    984.0 917.0
+Offset      0.0 10.0
+Slice       21.0 19.0
+BackGround  50.0 50.0
+
+Sprite_Index 8
+Key          Player_Dash_Right_9
+Left_Top    1.0 881.0
+Offset      0.0 13.5
+Slice       19.0 12.0
+BackGround  50.0 50.0
+
+Sprite_Index 9
+Key          Player_Dash_Right_10
+Left_Top    23.0 874.0
+Offset      0.0 10.0
+Slice       16.0 19.0
+BackGround  50.0 50.0
+
+Sprite_Index 10
+Key          Player_Dash_Right_11
+Left_Top    42.0 868.0
+Offset      0.0 7.0
+Slice       16.0 25.0
+BackGround  50.0 50.0
+
+Sprite_Index 11
+Key          Player_Dash_Right_12
+Left_Top    61.0 855.0
+Offset      0.0 0.5
+Slice       17.0 38.0
+BackGround  50.0 50.0
+

@@ -1,0 +1,52 @@
+[ANIMATION_NAME]
+Boss_Nor_Atk1
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 6
+
+Sprite_Index 0
+Key          Boss_Nor_Atk1_1
+Left_Top    30.0 3939.0
+Offset      -18.0 17.0
+Slice       201.0 127.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Nor_Atk1_2
+Left_Top    291.0 3914.0
+Offset      10.0 4.5
+Slice       210.0 152.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Nor_Atk1_3
+Left_Top    561.0 3909.0
+Offset      10.0 2.0
+Slice       199.0 157.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Nor_Atk1_4
+Left_Top    820.0 3917.0
+Offset      4.0 6.0
+Slice       168.0 149.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Nor_Atk1_5
+Left_Top    1048.0 3910.0
+Offset      37.0 29.5
+Slice       194.0 156.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Nor_Atk1_6
+Left_Top    1302.0 3933.0
+Offset      -12.0 15.0
+Slice       188.0 133.0
+BackGround  300.0 300.0
+

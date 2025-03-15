@@ -1,0 +1,115 @@
+[ANIMATION_NAME]
+Boss_Nor_Atk3
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 15
+
+Sprite_Index 0
+Key          Boss_Nor_Atk3_1
+Left_Top    3543.0 3876.0
+Offset      -28.0 4.0
+Slice       140.0 190.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Nor_Atk3_2
+Left_Top    3743.0 3883.0
+Offset      -22.0 2.5
+Slice       150.0 183.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Nor_Atk3_3
+Left_Top    30.0 3621.0
+Offset      -19.0 -1.5
+Slice       151.0 181.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Nor_Atk3_4
+Left_Top    241.0 3632.0
+Offset      -17.0 -6.0
+Slice       154.0 170.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Nor_Atk3_5
+Left_Top    455.0 3633.0
+Offset      -9.0 -5.5
+Slice       165.0 169.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Nor_Atk3_6
+Left_Top    680.0 3661.0
+Offset      0.0 8.5
+Slice       182.0 141.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Nor_Atk3_7
+Left_Top    922.0 3674.0
+Offset      -4.0 30.0
+Slice       201.0 128.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Boss_Nor_Atk3_8
+Left_Top    1183.0 3694.0
+Offset      0.0 25.0
+Slice       232.0 108.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Boss_Nor_Atk3_9
+Left_Top    1475.0 3695.0
+Offset      -7.0 26.5
+Slice       249.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Boss_Nor_Atk3_10
+Left_Top    1784.0 3695.0
+Offset      -8.0 26.5
+Slice       258.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Boss_Nor_Atk3_11
+Left_Top    2102.0 3695.0
+Offset      -8.0 26.5
+Slice       258.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Boss_Nor_Atk3_12
+Left_Top    2420.0 3695.0
+Offset      -8.0 26.5
+Slice       258.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Boss_Nor_Atk3_13
+Left_Top    2738.0 3695.0
+Offset      -5.0 25.5
+Slice       249.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 13
+Key          Boss_Nor_Atk3_14
+Left_Top    3047.0 3694.0
+Offset      0.0 26.0
+Slice       233.0 108.0
+BackGround  300.0 300.0
+
+Sprite_Index 14
+Key          Boss_Nor_Atk3_15
+Left_Top    3340.0 3664.0
+Offset      0.0 11.0
+Slice       169.0 138.0
+BackGround  300.0 300.0
+

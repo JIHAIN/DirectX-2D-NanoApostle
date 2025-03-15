@@ -1,0 +1,54 @@
+[PARTICLE_NAME]
+ShieldTex
+
+[ATLAS_TEXTURE]
+ShieldTex
+Texture//particle//CircleGradient_Reverse_Circle_Big.png
+
+[MODULE_STATES]
+Module_0 1
+Module_1 0
+Module_2 1
+Module_3 1
+Module_4 1
+Module_5 1
+Module_6 0
+
+[SPAWN_MODULE] TRUE
+SpawnRate 50
+SpawnColor 0.300 0.400 0.700 1.000
+SpawnMinScale 10.000 10.000 1.000
+SpawnMaxScale 15.000 15.000 1.000
+LifeRange 1.000 3.000
+SpawnShape 1
+SpawnShapeScale 0.000 0.000 0.000
+BlockSpawnShape 1
+BlockSpawnShapeScale 200.000 200.000 0.000
+SpaceType 0
+
+[SPAWN_BURST_MODULE] FALSE
+SpawnBurstCount 3435973836
+SpawnBurstRepeat 3435973836
+SpawnBurstRepeatTime -107374176.000
+
+[ADD_VELOCITY_MODULE] TRUE
+AddVelocityType 4
+AddVelocityFixedDir 1.000 1.000 0.000
+SpeedRange 1.000 100.000
+
+[SCALE_MODULE] TRUE
+ScaleRange 1.000 1.500
+
+[DRAG_MODULE] TRUE
+DestNormalizedAge 1.000
+LimitSpeed 0.000
+
+[NOISE_FORCE_MODULE] TRUE
+NoiseForceTerm 0.300
+NoiseForceScale 200.000
+
+[RENDER_MODULE] FALSE
+EndColor 10.000 1.000 1.000
+FadeOut 1
+FadeOutStartRatio  0.900
+VelocityAlignment 1

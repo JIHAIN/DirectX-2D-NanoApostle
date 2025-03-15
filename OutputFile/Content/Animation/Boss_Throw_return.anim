@@ -1,0 +1,101 @@
+[ANIMATION_NAME]
+Boss_Throw_return
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 13
+
+Sprite_Index 0
+Key          Boss_Throw_return_1
+Left_Top    1263.0 2447.0
+Offset      0.0 13.0
+Slice       120.0 135.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Throw_return_2
+Left_Top    1443.0 2447.0
+Offset      5.0 13.0
+Slice       130.0 135.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Throw_return_3
+Left_Top    1633.0 2468.0
+Offset      -16.0 22.5
+Slice       171.0 114.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Throw_return_4
+Left_Top    1864.0 2443.0
+Offset      8.0 10.0
+Slice       231.0 139.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Throw_return_5
+Left_Top    2155.0 2444.0
+Offset      26.0 10.5
+Slice       175.0 138.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Throw_return_6
+Left_Top    2390.0 2444.0
+Offset      24.0 10.5
+Slice       172.0 138.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Throw_return_7
+Left_Top    2622.0 2435.0
+Offset      -1.0 23.0
+Slice       197.0 147.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Boss_Throw_return_8
+Left_Top    2879.0 2420.0
+Offset      -21.0 18.5
+Slice       172.0 162.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Boss_Throw_return_9
+Left_Top    3111.0 2422.0
+Offset      -13.0 21.5
+Slice       148.0 160.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Boss_Throw_return_10
+Left_Top    3319.0 2424.0
+Offset      -12.0 23.5
+Slice       150.0 158.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Boss_Throw_return_11
+Left_Top    3529.0 2444.0
+Offset      -19.0 26.5
+Slice       176.0 138.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Boss_Throw_return_12
+Left_Top    3765.0 2454.0
+Offset      -6.0 28.5
+Slice       191.0 128.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Boss_Throw_return_13
+Left_Top    30.0 2216.0
+Offset      1.0 12.5
+Slice       169.0 138.0
+BackGround  300.0 300.0
+

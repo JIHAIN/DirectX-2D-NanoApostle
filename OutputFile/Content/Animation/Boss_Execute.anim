@@ -1,0 +1,885 @@
+[ANIMATION_NAME]
+Boss_Execute
+
+[ATLAS_TEXTURE]
+Texture\Berserker_Execute.png
+Texture\Berserker_Execute.png
+
+[FRAME_DATA]
+Frame_Count 125
+
+Sprite_Index 0
+Key          Boss_Execute_1
+Left_Top    835.0 3924.0
+Offset      0.0 90.0
+Slice       167.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 1
+Key          Boss_Execute_2
+Left_Top    1003.0 3924.0
+Offset      -5.0 93.0
+Slice       177.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 2
+Key          Boss_Execute_3
+Left_Top    1183.0 3924.0
+Offset      0.0 89.0
+Slice       280.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 3
+Key          Boss_Execute_4
+Left_Top    1495.0 3924.0
+Offset      3.0 86.0
+Slice       295.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 4
+Key          Boss_Execute_5
+Left_Top    1807.0 3924.0
+Offset      -14.0 96.0
+Slice       329.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 5
+Key          Boss_Execute_6
+Left_Top    2157.0 3924.0
+Offset      -54.0 92.0
+Slice       265.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 6
+Key          Boss_Execute_7
+Left_Top    2422.0 3963.0
+Offset      -60.0 111.0
+Slice       259.0 132.0
+BackGround  400.0 400.0
+
+Sprite_Index 7
+Key          Boss_Execute_8
+Left_Top    2684.0 3924.0
+Offset      -60.0 93.0
+Slice       260.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 8
+Key          Boss_Execute_9
+Left_Top    2947.0 3924.0
+Offset      -60.0 93.0
+Slice       259.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 9
+Key          Boss_Execute_10
+Left_Top    3209.0 3924.0
+Offset      -60.0 111.0
+Slice       279.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 10
+Key          Boss_Execute_11
+Left_Top    3490.0 3924.0
+Offset      -34.0 74.0
+Slice       231.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 11
+Key          Boss_Execute_12
+Left_Top    3722.0 3924.0
+Offset      -34.0 74.0
+Slice       239.0 175.0
+BackGround  400.0 400.0
+
+Sprite_Index 12
+Key          Boss_Execute_13
+Left_Top    0.0 3690.0
+Offset      -34.0 43.0
+Slice       245.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 13
+Key          Boss_Execute_14
+Left_Top    242.0 3690.0
+Offset      -34.0 43.0
+Slice       264.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 14
+Key          Boss_Execute_15
+Left_Top    505.0 3690.0
+Offset      -34.0 43.0
+Slice       242.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 15
+Key          Boss_Execute_16
+Left_Top    766.0 3690.0
+Offset      -12.0 74.0
+Slice       208.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 16
+Key          Boss_Execute_17
+Left_Top    997.0 3690.0
+Offset      -2.0 78.0
+Slice       193.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 17
+Key          Boss_Execute_18
+Left_Top    1189.0 3690.0
+Offset      4.0 79.0
+Slice       190.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 18
+Key          Boss_Execute_19
+Left_Top    1379.0 3690.0
+Offset      8.0 81.0
+Slice       185.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 19
+Key          Boss_Execute_20
+Left_Top    1563.0 3690.0
+Offset      12.0 79.0
+Slice       185.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 20
+Key          Boss_Execute_21
+Left_Top    1761.0 3690.0
+Offset      21.0 79.0
+Slice       168.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 21
+Key          Boss_Execute_22
+Left_Top    1932.0 3690.0
+Offset      7.0 79.0
+Slice       178.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 22
+Key          Boss_Execute_23
+Left_Top    2107.0 3690.0
+Offset      -3.0 80.0
+Slice       195.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 23
+Key          Boss_Execute_24
+Left_Top    2302.0 3690.0
+Offset      -2.0 80.0
+Slice       197.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 24
+Key          Boss_Execute_25
+Left_Top    2517.0 3690.0
+Offset      11.0 80.0
+Slice       188.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 25
+Key          Boss_Execute_26
+Left_Top    2700.0 3690.0
+Offset      13.0 80.0
+Slice       182.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 26
+Key          Boss_Execute_27
+Left_Top    2897.0 3690.0
+Offset      19.0 80.0
+Slice       156.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 27
+Key          Boss_Execute_28
+Left_Top    3074.0 3690.0
+Offset      25.0 80.0
+Slice       170.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 28
+Key          Boss_Execute_29
+Left_Top    3250.0 3690.0
+Offset      23.0 67.0
+Slice       155.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 29
+Key          Boss_Execute_30
+Left_Top    3431.0 3688.0
+Offset      21.0 74.0
+Slice       151.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 30
+Key          Boss_Execute_31
+Left_Top    3589.0 3690.0
+Offset      24.0 41.0
+Slice       146.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 31
+Key          Boss_Execute_32
+Left_Top    3735.0 3690.0
+Offset      26.0 40.0
+Slice       142.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 32
+Key          Boss_Execute_33
+Left_Top    3878.0 3690.0
+Offset      26.0 40.0
+Slice       142.0 235.0
+BackGround  400.0 400.0
+
+Sprite_Index 33
+Key          Boss_Execute_34
+Left_Top    0.0 3505.0
+Offset      19.0 43.0
+Slice       131.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 34
+Key          Boss_Execute_35
+Left_Top    138.0 3505.0
+Offset      26.0 38.0
+Slice       135.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 35
+Key          Boss_Execute_36
+Left_Top    276.0 3505.0
+Offset      26.0 38.0
+Slice       137.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 36
+Key          Boss_Execute_37
+Left_Top    414.0 3505.0
+Offset      26.0 38.0
+Slice       145.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 37
+Key          Boss_Execute_38
+Left_Top    559.0 3505.0
+Offset      26.0 38.0
+Slice       145.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 38
+Key          Boss_Execute_39
+Left_Top    704.0 3505.0
+Offset      26.0 38.0
+Slice       145.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 39
+Key          Boss_Execute_40
+Left_Top    849.0 3505.0
+Offset      26.0 38.0
+Slice       145.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 40
+Key          Boss_Execute_41
+Left_Top    994.0 3505.0
+Offset      26.0 38.0
+Slice       150.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 41
+Key          Boss_Execute_42
+Left_Top    1144.0 3505.0
+Offset      26.0 38.0
+Slice       143.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 42
+Key          Boss_Execute_43
+Left_Top    1288.0 3505.0
+Offset      26.0 38.0
+Slice       139.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 43
+Key          Boss_Execute_44
+Left_Top    1428.0 3505.0
+Offset      38.0 60.0
+Slice       149.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 44
+Key          Boss_Execute_45
+Left_Top    1582.0 3505.0
+Offset      41.0 60.0
+Slice       155.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 45
+Key          Boss_Execute_46
+Left_Top    1739.0 3505.0
+Offset      42.0 60.0
+Slice       156.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 46
+Key          Boss_Execute_47
+Left_Top    1902.0 3505.0
+Offset      40.0 60.0
+Slice       153.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 47
+Key          Boss_Execute_48
+Left_Top    2061.0 3505.0
+Offset      35.0 60.0
+Slice       143.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 48
+Key          Boss_Execute_49
+Left_Top    2203.0 3505.0
+Offset      -48.0 60.0
+Slice       91.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 49
+Key          Boss_Execute_50
+Left_Top    2297.0 3505.0
+Offset      -48.0 60.0
+Slice       99.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 50
+Key          Boss_Execute_51
+Left_Top    2399.0 3505.0
+Offset      -48.0 60.0
+Slice       112.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 51
+Key          Boss_Execute_52
+Left_Top    2514.0 3505.0
+Offset      -48.0 60.0
+Slice       112.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 52
+Key          Boss_Execute_53
+Left_Top    2629.0 3505.0
+Offset      -48.0 60.0
+Slice       117.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 53
+Key          Boss_Execute_54
+Left_Top    2749.0 3505.0
+Offset      0.0 60.0
+Slice       109.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 54
+Key          Boss_Execute_55
+Left_Top    2861.0 3505.0
+Offset      0.0 60.0
+Slice       109.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 55
+Key          Boss_Execute_56
+Left_Top    2973.0 3505.0
+Offset      0.0 60.0
+Slice       109.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 56
+Key          Boss_Execute_57
+Left_Top    3085.0 3505.0
+Offset      0.0 60.0
+Slice       111.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 57
+Key          Boss_Execute_58
+Left_Top    3199.0 3505.0
+Offset      0.0 60.0
+Slice       111.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 58
+Key          Boss_Execute_59
+Left_Top    3313.0 3505.0
+Offset      0.0 60.0
+Slice       111.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 59
+Key          Boss_Execute_60
+Left_Top    3427.0 3505.0
+Offset      0.0 60.0
+Slice       113.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 60
+Key          Boss_Execute_61
+Left_Top    3543.0 3505.0
+Offset      0.0 60.0
+Slice       113.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 61
+Key          Boss_Execute_62
+Left_Top    3659.0 3505.0
+Offset      0.0 60.0
+Slice       113.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 62
+Key          Boss_Execute_63
+Left_Top    3775.0 3505.0
+Offset      0.0 60.0
+Slice       113.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 63
+Key          Boss_Execute_64
+Left_Top    3891.0 3505.0
+Offset      0.0 60.0
+Slice       115.0 185.0
+BackGround  400.0 400.0
+
+Sprite_Index 64
+Key          Boss_Execute_65
+Left_Top    0.0 3140.0
+Offset      -2.0 -20.0
+Slice       149.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 65
+Key          Boss_Execute_66
+Left_Top    139.0 3140.0
+Offset      -7.0 -20.0
+Slice       161.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 66
+Key          Boss_Execute_67
+Left_Top    300.0 3140.0
+Offset      0.0 -20.0
+Slice       117.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 67
+Key          Boss_Execute_68
+Left_Top    420.0 3140.0
+Offset      0.0 -20.0
+Slice       117.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 68
+Key          Boss_Execute_69
+Left_Top    540.0 3140.0
+Offset      0.0 -20.0
+Slice       117.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 69
+Key          Boss_Execute_70
+Left_Top    660.0 3140.0
+Offset      0.0 -20.0
+Slice       117.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 70
+Key          Boss_Execute_71
+Left_Top    780.0 3140.0
+Offset      0.0 -20.0
+Slice       117.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 71
+Key          Boss_Execute_72
+Left_Top    900.0 3140.0
+Offset      0.0 -20.0
+Slice       118.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 72
+Key          Boss_Execute_73
+Left_Top    1021.0 3140.0
+Offset      0.0 -20.0
+Slice       118.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 73
+Key          Boss_Execute_74
+Left_Top    1142.0 3140.0
+Offset      0.0 -20.0
+Slice       118.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 74
+Key          Boss_Execute_75
+Left_Top    1267.0 3140.0
+Offset      0.0 -20.0
+Slice       119.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 75
+Key          Boss_Execute_76
+Left_Top    1389.0 3140.0
+Offset      0.0 -20.0
+Slice       119.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 76
+Key          Boss_Execute_77
+Left_Top    1515.0 3140.0
+Offset      0.0 -20.0
+Slice       119.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 77
+Key          Boss_Execute_78
+Left_Top    1637.0 3140.0
+Offset      0.0 -20.0
+Slice       120.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 78
+Key          Boss_Execute_79
+Left_Top    1766.0 3140.0
+Offset      0.0 -20.0
+Slice       121.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 79
+Key          Boss_Execute_80
+Left_Top    1890.0 3140.0
+Offset      0.0 -20.0
+Slice       121.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 80
+Key          Boss_Execute_81
+Left_Top    2020.0 3140.0
+Offset      0.0 -20.0
+Slice       121.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 81
+Key          Boss_Execute_82
+Left_Top    2144.0 3140.0
+Offset      0.0 -20.0
+Slice       121.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 82
+Key          Boss_Execute_83
+Left_Top    2273.0 3140.0
+Offset      0.0 -20.0
+Slice       121.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 83
+Key          Boss_Execute_84
+Left_Top    2397.0 3140.0
+Offset      0.0 -20.0
+Slice       123.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 84
+Key          Boss_Execute_85
+Left_Top    2525.0 3140.0
+Offset      0.0 -20.0
+Slice       123.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 85
+Key          Boss_Execute_86
+Left_Top    2651.0 3140.0
+Offset      0.0 -20.0
+Slice       124.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 86
+Key          Boss_Execute_87
+Left_Top    2780.0 3140.0
+Offset      0.0 -20.0
+Slice       124.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 87
+Key          Boss_Execute_88
+Left_Top    2907.0 3140.0
+Offset      0.0 -20.0
+Slice       125.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 88
+Key          Boss_Execute_89
+Left_Top    3036.0 3140.0
+Offset      0.0 -20.0
+Slice       122.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 89
+Key          Boss_Execute_90
+Left_Top    3157.0 3140.0
+Offset      0.0 0.0
+Slice       195.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 90
+Key          Boss_Execute_91
+Left_Top    3337.0 3140.0
+Offset      0.0 1.0
+Slice       220.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 91
+Key          Boss_Execute_92
+Left_Top    3600.0 3140.0
+Offset      12.0 1.0
+Slice       175.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 92
+Key          Boss_Execute_93
+Left_Top    3786.0 3140.0
+Offset      0.0 1.0
+Slice       143.0 365.0
+BackGround  400.0 400.0
+
+Sprite_Index 93
+Key          Boss_Execute_94
+Left_Top    0.0 2770.0
+Offset      -7.0 -5.0
+Slice       140.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 94
+Key          Boss_Execute_95
+Left_Top    140.0 2770.0
+Offset      -4.0 -5.0
+Slice       137.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 95
+Key          Boss_Execute_96
+Left_Top    275.0 2770.0
+Offset      3.0 -5.0
+Slice       116.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 96
+Key          Boss_Execute_97
+Left_Top    392.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 97
+Key          Boss_Execute_98
+Left_Top    509.0 2770.0
+Offset      2.0 0.0
+Slice       114.0 380.0
+BackGround  400.0 400.0
+
+Sprite_Index 98
+Key          Boss_Execute_99
+Left_Top    626.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 99
+Key          Boss_Execute_100
+Left_Top    743.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 100
+Key          Boss_Execute_101
+Left_Top    860.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 101
+Key          Boss_Execute_102
+Left_Top    977.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 102
+Key          Boss_Execute_103
+Left_Top    1094.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 103
+Key          Boss_Execute_104
+Left_Top    1211.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 104
+Key          Boss_Execute_105
+Left_Top    1328.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 105
+Key          Boss_Execute_106
+Left_Top    1445.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 106
+Key          Boss_Execute_107
+Left_Top    1562.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 107
+Key          Boss_Execute_108
+Left_Top    1679.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 108
+Key          Boss_Execute_109
+Left_Top    1796.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 109
+Key          Boss_Execute_110
+Left_Top    1913.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 110
+Key          Boss_Execute_111
+Left_Top    2030.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 111
+Key          Boss_Execute_112
+Left_Top    2147.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 112
+Key          Boss_Execute_113
+Left_Top    2264.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 113
+Key          Boss_Execute_114
+Left_Top    2381.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 114
+Key          Boss_Execute_115
+Left_Top    2498.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 115
+Key          Boss_Execute_116
+Left_Top    2615.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 116
+Key          Boss_Execute_117
+Left_Top    2732.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 117
+Key          Boss_Execute_118
+Left_Top    2849.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 118
+Key          Boss_Execute_119
+Left_Top    2966.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 119
+Key          Boss_Execute_120
+Left_Top    3083.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 120
+Key          Boss_Execute_121
+Left_Top    3200.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 121
+Key          Boss_Execute_122
+Left_Top    3317.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 122
+Key          Boss_Execute_123
+Left_Top    3434.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 123
+Key          Boss_Execute_124
+Left_Top    3551.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+
+Sprite_Index 124
+Key          Boss_Execute_125
+Left_Top    3668.0 2770.0
+Offset      2.0 -5.0
+Slice       114.0 370.0
+BackGround  400.0 400.0
+

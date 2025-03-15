@@ -1,0 +1,429 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>0. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>0. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>0. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>0. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_dx11.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_win32.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_rectpack.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_textedit.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_truetype.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>0. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="CImGuiMgr.h">
+      <Filter>1. ImGui\2. ImGuiMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="EditorUI.h">
+      <Filter>3. EditorUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TransformUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\TransformUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Inspector.h">
+      <Filter>3. EditorUI\1. Inspector</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider2DUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Collider2DUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ComponentUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\CameraUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Light2DUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Light2D</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshRenderUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\MeshRenderUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ListUI.h">
+      <Filter>3. EditorUI\3. List</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditorMgr.h">
+      <Filter>2. EditorMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameObjectEx.h">
+      <Filter>2. EditorMgr\GameObjectEx</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimationUI.h">
+      <Filter>3. EditorUI\4. AnimationUI</Filter>
+    </ClInclude>
+    <ClInclude Include="CEditorCamScript.h">
+      <Filter>2. EditorMgr\EditorCamScript</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuUI.h">
+      <Filter>3. EditorUI\2. Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Outliner.h">
+      <Filter>3. EditorUI\6. Outliner</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeUI.h">
+      <Filter>3. EditorUI\7. Tree</Filter>
+    </ClInclude>
+    <ClInclude Include="ContentUI.h">
+      <Filter>3. EditorUI\5. Content</Filter>
+    </ClInclude>
+    <ClInclude Include="AssetUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\1. MeshUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshDataUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\2. Mesh_DataUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\3. TextureUI</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\4. SoundUI</Filter>
+    </ClInclude>
+    <ClInclude Include="PrefabUi.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\5. PrefabUI</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\7. SpriteUI</Filter>
+    </ClInclude>
+    <ClInclude Include="MaterialUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\8. MaterialUI</Filter>
+    </ClInclude>
+    <ClInclude Include="GraphicshaderUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\9. Graphic_shaderUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ComputeshaderUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\10. Compute_shaderUI</Filter>
+    </ClInclude>
+    <ClInclude Include="FlipbookUI.h">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\6. FlopbookUI</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\ParticleUI</Filter>
+    </ClInclude>
+    <ClInclude Include="TestLevel.h">
+      <Filter>4. TestLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="CLevelSaveLoad.h">
+      <Filter>5. LevelSaveLoad</Filter>
+    </ClInclude>
+    <ClInclude Include="ScriptUI.h">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Script</Filter>
+    </ClInclude>
+    <ClInclude Include="ALevel.h">
+      <Filter>4. TestLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="ParamUI.h">
+      <Filter>3. EditorUI\8. ParamUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts.h" />
+    <ClInclude Include="TrapLevel.h">
+      <Filter>4. TestLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="MainLevel.h">
+      <Filter>4. TestLevel</Filter>
+    </ClInclude>
+    <ClInclude Include="BossLevel.h">
+      <Filter>4. TestLevel</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico">
+      <Filter>0. Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>0. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="0. Default">
+      <UniqueIdentifier>{0d87b35f-9f58-4ab3-81ee-0ffbc62595a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI">
+      <UniqueIdentifier>{4db2c0bc-f40a-4f68-9085-efb01bb91bb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1. ImGui">
+      <UniqueIdentifier>{862b0cf0-188d-4a11-b7d1-ebd49e67cfee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1. ImGui\1. ImGui">
+      <UniqueIdentifier>{48e04b2b-dc6f-4531-b4f5-6837ee0f7f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="1. ImGui\2. ImGuiMgr">
+      <UniqueIdentifier>{5746bfa5-fb98-4764-950d-bbc0214f407b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2. EditorMgr">
+      <UniqueIdentifier>{c182bef4-f28f-4d27-a1cc-18a9e34c857a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2. EditorMgr\GameObjectEx">
+      <UniqueIdentifier>{5df8f320-a441-4049-b955-de0b225a3a4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="2. EditorMgr\EditorCamScript">
+      <UniqueIdentifier>{c5eba3ac-7dd0-4a5f-97e8-9823d3197754}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector">
+      <UniqueIdentifier>{b7b386be-3f13-4b3a-a98c-9a9e16a0a088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI">
+      <UniqueIdentifier>{c4518674-00b5-46d8-b583-2dde6dc3fd46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\Collider2DUI">
+      <UniqueIdentifier>{80177140-34b3-49b6-84b7-7a74a76103df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\TransformUI">
+      <UniqueIdentifier>{66c79a43-43cc-44b6-ada2-f585945a5d93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\CameraUI">
+      <UniqueIdentifier>{439068e4-59eb-4ae6-b980-38a1c3bb5cd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\Light2D">
+      <UniqueIdentifier>{f1156192-d52d-4921-8f0e-c9a10c1dcf06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\MeshRenderUI">
+      <UniqueIdentifier>{dbb58bd4-b5c4-40dd-9ffb-bb2c3d7f57c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI">
+      <UniqueIdentifier>{e04bc8fe-b18c-43e7-81d7-6b78d0511088}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\4. SoundUI">
+      <UniqueIdentifier>{5882c853-e425-426a-901b-1b34be286a77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\3. TextureUI">
+      <UniqueIdentifier>{afdc76d1-68f9-4434-a0dc-57b6c5f561f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\2. Mesh_DataUI">
+      <UniqueIdentifier>{207be22b-2cf5-483e-a2f5-9d21dd427f96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\1. MeshUI">
+      <UniqueIdentifier>{80818cb3-1130-4796-ae7a-c20d2d518a80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\5. PrefabUI">
+      <UniqueIdentifier>{8414383a-d0ae-4b4e-a7f6-aff88aca510f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\6. FlopbookUI">
+      <UniqueIdentifier>{6cc2967c-6b3a-4e5b-ae8f-33930ce31171}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\7. SpriteUI">
+      <UniqueIdentifier>{0622cae2-1c96-49b6-9e2a-b274759ff660}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\8. MaterialUI">
+      <UniqueIdentifier>{24034091-df0f-4e84-8881-982785cf278e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\9. Graphic_shaderUI">
+      <UniqueIdentifier>{a1cc670b-a28b-4e25-87be-00074487a2aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\AssetUI\10. Compute_shaderUI">
+      <UniqueIdentifier>{a5721871-b6e5-4efd-96b5-3e60d2224e55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\2. Menu">
+      <UniqueIdentifier>{44800178-753e-43a0-a7f0-0ddf850e6cce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\3. List">
+      <UniqueIdentifier>{f4a870e5-a252-40db-873f-411a4b8c7b3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\ParticleUI">
+      <UniqueIdentifier>{10ec8044-ce36-46bc-a580-95de427cc75a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="4. TestLevel">
+      <UniqueIdentifier>{e1ff44b8-c48c-4b78-8cf4-8544b5e57d74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="5. LevelSaveLoad">
+      <UniqueIdentifier>{a7413f52-8230-4c5f-b8d8-781b60b3806a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\1. Inspector\ComponentUI\Script">
+      <UniqueIdentifier>{23599309-0d3e-4617-92b4-11b89bea91fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\4. AnimationUI">
+      <UniqueIdentifier>{258273a0-fce9-44e0-b024-9bd66c5a04df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\5. Content">
+      <UniqueIdentifier>{4920d9f5-f3f2-4caf-a90f-0f762e96d4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\6. Outliner">
+      <UniqueIdentifier>{dab441ac-bf19-4827-8c9d-4f636122f893}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\7. Tree">
+      <UniqueIdentifier>{d1cb83f6-57ea-4698-9c3c-cf1c2ed55f04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3. EditorUI\8. ParamUI">
+      <UniqueIdentifier>{890208fa-5a28-4d95-89be-8caf922f3400}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>0. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_dx11.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_win32.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_tables.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_widgets.cpp">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>0. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="CImGuiMgr.cpp">
+      <Filter>1. ImGui\2. ImGuiMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="EditorUI.cpp">
+      <Filter>3. EditorUI</Filter>
+    </ClCompile>
+    <ClCompile Include="TransformUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\TransformUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Inspector.cpp">
+      <Filter>3. EditorUI\1. Inspector</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider2DUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Collider2DUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ComponentUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\CameraUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_demo.cpp" />
+    <ClCompile Include="Light2DUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Light2D</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshRenderUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\MeshRenderUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ListUI.cpp">
+      <Filter>3. EditorUI\3. List</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditorMgr.cpp">
+      <Filter>2. EditorMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameObjectEx.cpp">
+      <Filter>2. EditorMgr\GameObjectEx</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimationUI.cpp">
+      <Filter>3. EditorUI\4. AnimationUI</Filter>
+    </ClCompile>
+    <ClCompile Include="CEditorCamScript.cpp">
+      <Filter>2. EditorMgr\EditorCamScript</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuUI.cpp">
+      <Filter>3. EditorUI\2. Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Outliner.cpp">
+      <Filter>3. EditorUI\6. Outliner</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeUI.cpp">
+      <Filter>3. EditorUI\7. Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="ContentUI.cpp">
+      <Filter>3. EditorUI\5. Content</Filter>
+    </ClCompile>
+    <ClCompile Include="AssetUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\1. MeshUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshDataUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\2. Mesh_DataUI</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\3. TextureUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\4. SoundUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PrefabUi.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\5. PrefabUI</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\7. SpriteUI</Filter>
+    </ClCompile>
+    <ClCompile Include="MaterialUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\8. MaterialUI</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicshaderUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\9. Graphic_shaderUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ComputeshaderUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\10. Compute_shaderUI</Filter>
+    </ClCompile>
+    <ClCompile Include="FlipbookUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\AssetUI\6. FlopbookUI</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\ParticleUI</Filter>
+    </ClCompile>
+    <ClCompile Include="TestLevel.cpp">
+      <Filter>4. TestLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="CLevelSaveLoad.cpp">
+      <Filter>5. LevelSaveLoad</Filter>
+    </ClCompile>
+    <ClCompile Include="ScriptUI.cpp">
+      <Filter>3. EditorUI\1. Inspector\ComponentUI\Script</Filter>
+    </ClCompile>
+    <ClCompile Include="ALevel.cpp">
+      <Filter>4. TestLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="ParamUI.cpp">
+      <Filter>3. EditorUI\8. ParamUI</Filter>
+    </ClCompile>
+    <ClCompile Include="TrapLevel.cpp">
+      <Filter>4. TestLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="MainLevel.cpp">
+      <Filter>4. TestLevel</Filter>
+    </ClCompile>
+    <ClCompile Include="BossLevel.cpp">
+      <Filter>4. TestLevel</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="imgui\LICENSE.txt">
+      <Filter>1. ImGui\1. ImGui</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

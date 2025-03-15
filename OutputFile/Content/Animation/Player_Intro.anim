@@ -1,0 +1,94 @@
+[ANIMATION_NAME]
+Player_Intro
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 12
+
+Sprite_Index 0
+Key          Player_Intro_1
+Left_Top    19.0 795.0
+Offset      0.0 0.0
+Slice       25.0 13.0
+BackGround  200.0 200.0
+
+Sprite_Index 1
+Key          Player_Intro_2
+Left_Top    47.0 795.0
+Offset      0.0 -0.0
+Slice       25.0 13.0
+BackGround  200.0 200.0
+
+Sprite_Index 2
+Key          Player_Intro_3
+Left_Top    75.0 794.0
+Offset      0.0 -0.5
+Slice       22.0 14.0
+BackGround  200.0 200.0
+
+Sprite_Index 3
+Key          Player_Intro_4
+Left_Top    100.0 793.0
+Offset      0.0 -1.0
+Slice       21.0 15.0
+BackGround  200.0 200.0
+
+Sprite_Index 4
+Key          Player_Intro_5
+Left_Top    124.0 789.0
+Offset      0.0 -3.0
+Slice       20.0 19.0
+BackGround  200.0 200.0
+
+Sprite_Index 5
+Key          Player_Intro_6
+Left_Top    147.0 788.0
+Offset      0.0 -3.5
+Slice       19.0 20.0
+BackGround  200.0 200.0
+
+Sprite_Index 6
+Key          Player_Intro_7
+Left_Top    169.0 787.0
+Offset      0.0 -4.0
+Slice       18.0 21.0
+BackGround  200.0 200.0
+
+Sprite_Index 7
+Key          Player_Intro_8
+Left_Top    190.0 787.0
+Offset      0.0 -4.0
+Slice       18.0 21.0
+BackGround  200.0 200.0
+
+Sprite_Index 8
+Key          Player_Intro_9
+Left_Top    211.0 787.0
+Offset      0.0 -4.0
+Slice       18.0 21.0
+BackGround  200.0 200.0
+
+Sprite_Index 9
+Key          Player_Intro_10
+Left_Top    232.0 787.0
+Offset      0.0 -4.0
+Slice       18.0 21.0
+BackGround  200.0 200.0
+
+Sprite_Index 10
+Key          Player_Intro_11
+Left_Top    253.0 788.0
+Offset      0.0 -3.5
+Slice       18.0 20.0
+BackGround  200.0 200.0
+
+Sprite_Index 11
+Key          Player_Intro_12
+Left_Top    274.0 787.0
+Offset      0.0 -4.0
+Slice       15.0 21.0
+BackGround  200.0 200.0
+

@@ -1,0 +1,45 @@
+[ANIMATION_NAME]
+Player_Atk_Right3
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Sprite_Index 0
+Key          Player_Atk_Right3_1
+Left_Top    682.0 948.0
+Offset      -1.0 4.0
+Slice       37.0 32.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Atk_Right3_2
+Left_Top    720.0 952.0
+Offset      -5.0 6.0
+Slice       35.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Atk_Right3_3
+Left_Top    755.0 954.0
+Offset      0.0 7.0
+Slice       23.0 26.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Atk_Right3_4
+Left_Top    780.0 950.0
+Offset      -1.0 5.0
+Slice       23.0 30.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Atk_Right3_5
+Left_Top    803.0 939.0
+Offset      0.0 0.0
+Slice       19.0 41.0
+BackGround  50.0 50.0
+

@@ -1,0 +1,38 @@
+[ANIMATION_NAME]
+Player_Shield_Up
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 4
+
+Sprite_Index 0
+Key          Player_Shield_Up_1
+Left_Top    397.0 857.0
+Offset      0.0 2.0
+Slice       20.0 37.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Shield_Up_2
+Left_Top    417.0 857.0
+Offset      0.0 2.0
+Slice       20.0 37.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Shield_Up_3
+Left_Top    438.0 857.0
+Offset      0.0 2.0
+Slice       20.0 37.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Shield_Up_4
+Left_Top    458.0 857.0
+Offset      -1.0 2.0
+Slice       20.0 37.0
+BackGround  50.0 50.0
+

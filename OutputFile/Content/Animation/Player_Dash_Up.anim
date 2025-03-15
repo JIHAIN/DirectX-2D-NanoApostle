@@ -1,0 +1,66 @@
+[ANIMATION_NAME]
+Player_Dash_Up
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Sprite_Index 0
+Key          Player_Dash_Up_1
+Left_Top    81.0 859.0
+Offset      0.0 3.0
+Slice       16.0 34.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Dash_Up_2
+Left_Top    100.0 859.0
+Offset      0.0 3.0
+Slice       17.0 34.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Dash_Up_3
+Left_Top    120.0 867.0
+Offset      0.0 7.0
+Slice       17.0 26.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Dash_Up_4
+Left_Top    140.0 875.0
+Offset      0.0 11.0
+Slice       14.0 18.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Dash_Up_5
+Left_Top    157.0 873.0
+Offset      0.0 10.0
+Slice       19.0 20.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_Dash_Up_6
+Left_Top    179.0 871.0
+Offset      0.0 9.0
+Slice       18.0 22.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_Dash_Up_7
+Left_Top    200.0 866.0
+Offset      0.0 6.5
+Slice       15.0 27.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_Dash_Up_8
+Left_Top    218.0 855.0
+Offset      0.0 1.0
+Slice       16.0 38.0
+BackGround  50.0 50.0
+

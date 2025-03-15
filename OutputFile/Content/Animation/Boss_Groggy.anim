@@ -1,0 +1,108 @@
+[ANIMATION_NAME]
+Boss_Groggy
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 14
+
+Sprite_Index 0
+Key          Boss_Groggy_1
+Left_Top    3705.0 1033.0
+Offset      0.0 9.0
+Slice       159.0 144.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Groggy_2
+Left_Top    667.0 1249.0
+Offset      0.0 18.5
+Slice       160.0 133.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Groggy_3
+Left_Top    1112.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Groggy_4
+Left_Top    1337.0 1263.0
+Offset      0.0 42.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Groggy_5
+Left_Top    1562.0 1261.0
+Offset      0.0 41.5
+Slice       165.0 121.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Groggy_6
+Left_Top    1787.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Groggy_7
+Left_Top    1337.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 7
+Key          Boss_Groggy_8
+Left_Top    1562.0 1261.0
+Offset      0.0 43.5
+Slice       165.0 121.0
+BackGround  300.0 300.0
+
+Sprite_Index 8
+Key          Boss_Groggy_9
+Left_Top    1787.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 9
+Key          Boss_Groggy_10
+Left_Top    1787.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 10
+Key          Boss_Groggy_11
+Left_Top    1562.0 1261.0
+Offset      0.0 43.5
+Slice       165.0 121.0
+BackGround  300.0 300.0
+
+Sprite_Index 11
+Key          Boss_Groggy_12
+Left_Top    1787.0 1263.0
+Offset      0.0 43.5
+Slice       165.0 119.0
+BackGround  300.0 300.0
+
+Sprite_Index 12
+Key          Boss_Groggy_13
+Left_Top    2012.0 1258.0
+Offset      0.0 34.5
+Slice       164.0 124.0
+BackGround  300.0 300.0
+
+Sprite_Index 13
+Key          Boss_Groggy_14
+Left_Top    2236.0 1244.0
+Offset      0.0 12.0
+Slice       169.0 138.0
+BackGround  300.0 300.0
+

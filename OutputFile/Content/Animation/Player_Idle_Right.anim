@@ -1,0 +1,66 @@
+[ANIMATION_NAME]
+Player_Idle_Right
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 8
+
+Sprite_Index 0
+Key          Player_Idle_Right_1
+Left_Top    609.0 982.0
+Offset      0.0 0.0
+Slice       16.0 41.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Idle_Right_2
+Left_Top    628.0 983.0
+Offset      0.0 0.5
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Idle_Right_3
+Left_Top    647.0 983.0
+Offset      0.0 0.5
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Idle_Right_4
+Left_Top    666.0 983.0
+Offset      0.0 0.5
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Idle_Right_5
+Left_Top    685.0 983.0
+Offset      0.0 0.5
+Slice       16.0 40.0
+BackGround  50.0 50.0
+
+Sprite_Index 5
+Key          Player_Idle_Right_6
+Left_Top    704.0 982.0
+Offset      0.0 -0.0
+Slice       16.0 41.0
+BackGround  50.0 50.0
+
+Sprite_Index 6
+Key          Player_Idle_Right_7
+Left_Top    723.0 982.0
+Offset      0.0 -0.0
+Slice       16.0 41.0
+BackGround  50.0 50.0
+
+Sprite_Index 7
+Key          Player_Idle_Right_8
+Left_Top    742.0 982.0
+Offset      0.0 -0.0
+Slice       16.0 41.0
+BackGround  50.0 50.0
+

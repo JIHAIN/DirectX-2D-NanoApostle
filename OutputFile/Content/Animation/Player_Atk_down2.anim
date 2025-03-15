@@ -1,0 +1,45 @@
+[ANIMATION_NAME]
+Player_Atk_down2
+
+[ATLAS_TEXTURE]
+Texture\Player.png
+Texture\Player.png
+
+[FRAME_DATA]
+Frame_Count 5
+
+Sprite_Index 0
+Key          Player_Atk_Down2_1
+Left_Top    950.0 947.0
+Offset      0.0 3.0
+Slice       34.0 33.0
+BackGround  50.0 50.0
+
+Sprite_Index 1
+Key          Player_Atk_Down2_2
+Left_Top    985.0 946.0
+Offset      3.0 3.0
+Slice       23.0 34.0
+BackGround  50.0 50.0
+
+Sprite_Index 2
+Key          Player_Atk_Down2_3
+Left_Top    0.0 908.0
+Offset      0.0 5.0
+Slice       18.0 28.0
+BackGround  50.0 50.0
+
+Sprite_Index 3
+Key          Player_Atk_Down2_4
+Left_Top    19.0 905.0
+Offset      0.0 4.0
+Slice       18.0 32.0
+BackGround  50.0 50.0
+
+Sprite_Index 4
+Key          Player_Atk_Down2_5
+Left_Top    38.0 896.0
+Offset      0.0 0.0
+Slice       18.0 41.0
+BackGround  50.0 50.0
+

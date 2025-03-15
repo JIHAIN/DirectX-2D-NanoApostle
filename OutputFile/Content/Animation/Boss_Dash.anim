@@ -1,0 +1,59 @@
+[ANIMATION_NAME]
+Boss_Dash
+
+[ATLAS_TEXTURE]
+Texture\Berserker.png
+Texture\Berserker.png
+
+[FRAME_DATA]
+Frame_Count 7
+
+Sprite_Index 0
+Key          Boss_Dash_1
+Left_Top    2198.0 2247.0
+Offset      0.0 32.0
+Slice       214.0 110.0
+BackGround  300.0 300.0
+
+Sprite_Index 1
+Key          Boss_Dash_2
+Left_Top    2472.0 2247.0
+Offset      0.0 26.0
+Slice       213.0 107.0
+BackGround  300.0 300.0
+
+Sprite_Index 2
+Key          Boss_Dash_3
+Left_Top    2745.0 2245.0
+Offset      0.0 26.0
+Slice       212.0 111.0
+BackGround  300.0 300.0
+
+Sprite_Index 3
+Key          Boss_Dash_4
+Left_Top    3017.0 2245.0
+Offset      0.0 26.0
+Slice       212.0 111.0
+BackGround  300.0 300.0
+
+Sprite_Index 4
+Key          Boss_Dash_5
+Left_Top    3289.0 2247.0
+Offset      0.0 27.0
+Slice       213.0 109.0
+BackGround  300.0 300.0
+
+Sprite_Index 5
+Key          Boss_Dash_6
+Left_Top    3562.0 2248.0
+Offset      0.0 27.5
+Slice       220.0 108.0
+BackGround  300.0 300.0
+
+Sprite_Index 6
+Key          Boss_Dash_7
+Left_Top    3842.0 2224.0
+Offset      0.0 14.5
+Slice       198.0 130.0
+BackGround  300.0 300.0
+

@@ -1,0 +1,44 @@
+1. PostProcess
+  
+
+2. ParticleSystem
+  - StructuredBuffer 기능 추가
+  - GPGPU(General Purpose GPU),  ComputeShader
+  - UAV(UnorderedAccessView), CTexture 기능 확장
+
+3. Editor 제작
+  - ImGui 연동
+  - GameCamera , EditorCamera 분리
+  - Inspector, Content, Outliner
+  - ListUI
+  - TreeUI
+  - Level State 추가 ( Play, Stop, Pause )
+  - Level Save / Load
+    - GameObject Save / Load
+       - Component Save / Load
+  - Asset Save / Load
+    - Material, Prefab
+
+4. Level Save / Load
+	- 복사생성자
+	- Prefab Asset 추가
+
+
+5. FMOD / Font
+
+
+
+240926 
+1. CameraUI 구현하기
+  - LayerCheck, Priority
+
+2. Light2DUI 구현하기
+
+3. PostProcess 효과 1개 구현하기
+
+OutputFile 로 제출
+// 1 번키 -> Inspector 의 타겟 오브젝트를 Camera 컴포넌트를 보유한 오브젝트로 설정하기
+// 2 번키 ->Inspector 의 타겟 오브젝트를 Light2D 컴포넌트를 보유한 오브젝트로 설정하기
+// 3 번키 -> PostProcess 오브젝트 생성
+
+
